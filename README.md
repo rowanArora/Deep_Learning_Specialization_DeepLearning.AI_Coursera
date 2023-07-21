@@ -14,7 +14,7 @@ This repo contains my work for this specialization. The code base, quiz question
 
 ## 2023 Version
 
-This specialization was completed by myself in August 2023.
+As of July 2023, I have completed the first two courses of this specialization and am currently in the midst of completeing the other three courses which is why I don't have any work to show for the final three courses.
 
 ## Programming Assignments
 
