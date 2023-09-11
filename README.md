@@ -66,27 +66,27 @@ As of July 2023, I have completed the first two courses of this specialization a
 ### Course 1: Neural Networks and Deep Learning
 
   - Week 1 Quiz - [Introduction to deep learning](https://github.com/rowanArora/Deep_Learning_Specialization_DeepLearning.AI_Coursera/blob/main/Course%201%20-%20Neural%20Networks%20and%20Deep%20Learning/Week%201/Week%201%20Quiz%20-%20Introduction%20to%20Deep%20Learning.pdf)
-  - Week 2 Quiz - [Neural Network Basics]()
-  - Week 3 Quiz - [Shallow Neural Networks]()
-  - Week 4 Quiz - [Key concepts on Deep Neural Networks]()
+  - Week 2 Quiz - [Neural Network Basics](https://github.com/rowanArora/Deep_Learning_Specialization_DeepLearning.AI_Coursera/blob/main/Course%201%20-%20Neural%20Networks%20and%20Deep%20Learning/Week%202/Week%202%20Quiz%20-%20Neural%20Network%20Basics.pdf)
+  - Week 3 Quiz - [Shallow Neural Networks](https://github.com/rowanArora/Deep_Learning_Specialization_DeepLearning.AI_Coursera/blob/main/Course%201%20-%20Neural%20Networks%20and%20Deep%20Learning/Week%203/Week%203%20Quiz%20-%20Shallow%20Neural%20Networks.pdf)
+  - Week 4 Quiz - [Key concepts on Deep Neural Networks](https://github.com/rowanArora/Deep_Learning_Specialization_DeepLearning.AI_Coursera/blob/main/Course%201%20-%20Neural%20Networks%20and%20Deep%20Learning/Week%204/Week%204%20Quiz%20-%20Key%20Concepts%20on%20Deep%20Neural%20Networks.pdf)
 
 ### Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
-  - Week 1 Quiz - [Practical aspects of deep learning]()
-  - Week 2 Quiz - [Optimization algorithms]()
-  - Week 3 Quiz - [Hyperparameter tuning, Batch Normalization, Programming Frameworks]()
+  - Week 1 Quiz - [Practical aspects of deep learning](https://github.com/rowanArora/Deep_Learning_Specialization_DeepLearning.AI_Coursera/blob/main/Course%202%20-%20Improving%20Deep%20Neural%20Networks%3A%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Week%201/Week%201%20Quiz%20-%20Practical%20Aspects%20of%20Deep%20Learning.pdf)
+  - Week 2 Quiz - [Optimization algorithms](https://github.com/rowanArora/Deep_Learning_Specialization_DeepLearning.AI_Coursera/blob/main/Course%202%20-%20Improving%20Deep%20Neural%20Networks%3A%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Week%202/Week%202%20Quiz%20-%20Optimization%20Algorithms.pdf)
+  - Week 3 Quiz - [Hyperparameter tuning, Batch Normalization, Programming Frameworks](https://github.com/rowanArora/Deep_Learning_Specialization_DeepLearning.AI_Coursera/blob/main/Course%202%20-%20Improving%20Deep%20Neural%20Networks%3A%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Week%203/Week%203%20Quiz%20-%20Hyperparameter%20tuning%2C%20Batch%20Normalization%2C%20Programming%20Frameworks.pdf)
   
 ### Course 3: Structuring Machine Learning Projects
 
-  - Week 1 Quiz - [Bird recognition in the city of Peacetopia (case study)]()
-  - Week 2 Quiz - [Autonomous driving (case study)]()
+  - Week 1 Quiz - [Bird recognition in the city of Peacetopia (case study)](https://github.com/rowanArora/Deep_Learning_Specialization_DeepLearning.AI_Coursera/blob/main/Course%203%20-%20Structuring%20Machine%20Learning%20Projects/Week%201%20Quiz%20-%20Bird%20Recognition%20in%20the%20City%20of%20Peacetopia%20(Case%20Study).pdf)
+  - Week 2 Quiz - [Autonomous driving (case study)](https://github.com/rowanArora/Deep_Learning_Specialization_DeepLearning.AI_Coursera/blob/main/Course%203%20-%20Structuring%20Machine%20Learning%20Projects/Week%202%20Quiz%20-%20Autonomous%20Driving%20(Case%20Study).pdf)
 
 ### Course 4: Convolutional Neural Networks
 
-  - Week 1 Quiz - [The basics of ConvNets]()
-  - Week 2 Quiz - [Deep convolutional models]()
-  - Week 3 Quiz - [Detection algorithms]()
-  - Week 4 Quiz - [Special applications]()
+  - Week 1 Quiz - [The basics of ConvNets](https://github.com/rowanArora/Deep_Learning_Specialization_DeepLearning.AI_Coursera/blob/main/Course%204%20-%20Convulational%20Neural%20Networks/Week%201/Quiz%201%20-%20The%20Basics%20of%20ConvNets.pdf)
+  - Week 2 Quiz - [Deep convolutional models](https://github.com/rowanArora/Deep_Learning_Specialization_DeepLearning.AI_Coursera/blob/main/Course%204%20-%20Convulational%20Neural%20Networks/Week%202/Quiz%201%20-%20Deep%20Convolutional%20Models.pdf)
+  - Week 3 Quiz - [Detection algorithms](https://github.com/rowanArora/Deep_Learning_Specialization_DeepLearning.AI_Coursera/blob/main/Course%204%20-%20Convulational%20Neural%20Networks/Week%203/Quiz%201%20-%20Detection%20Algorithms.pdf)
+  - Week 4 Quiz - [Special applications](https://github.com/rowanArora/Deep_Learning_Specialization_DeepLearning.AI_Coursera/blob/main/Course%204%20-%20Convulational%20Neural%20Networks/Week%204/Quiz%201%20-%20Special%20Applications%20(Face%20Recognition%20%26%20Neural%20Style%20Transfer).pdf)
 
 ### Course 5: Sequence Models
 
