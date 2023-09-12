@@ -54,12 +54,11 @@ As of July 2023, I have completed the first two courses of this specialization a
   - [Week 1 - A1 - Building a Recurrent Neural Network - Step by Step]()
   - [Week 1 - A2 - Dinosaur Land -- Character-level Language Modeling]()
   - [Week 1 - A3 - Jazz improvisation with LSTM]()  
-  - [Week 2 - A1 - Word Vector Representation and Debiasing]()  
+  - [Week 2 - A1 - Word Vector Representation and Debiasing]()
+  - [Week 2 - A2 - Emojify]()
   - [Week 3 - A1 - Neural Machine Translation with Attention]()  
   - [Week 3 - A2 - Trigger Word Detection]()
-  - [Week 4 - A1 - Transformer Network]()  
-  - [Week 3 - A2 - Transformer Network Application: Named-Entity Recognition]()   
-  - [Week 3 - A2 - Transformer Network Application: Question Answering]() 
+  - [Week 4 - A1 - Transformers Architecture with TensorFlow]()
   
 ## Quiz Solutions
 
