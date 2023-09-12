@@ -91,7 +91,8 @@ As of July 2023, I have completed the first two courses of this specialization a
 
   - Week 1 Quiz - [Recurrent Neural Networks]()
   - Week 2 Quiz - [Natural Language Processing & Word Embeddings]()
-  - Week 3 Quiz - [Sequence models & Attention mechanism]()
+  - Week 3 Quiz - [Sequence models & Attention Mechanism]()
+  - Week 4 Quiz - [Transformers]()
 
 ## Disclaimer
 
